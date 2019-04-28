@@ -133,7 +133,10 @@ li {
 @media (min-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .card-white {
-    width: 700px;
+    width: 800px;
+  }
+  .desc {
+  width: 450px;
   }
 }
 
